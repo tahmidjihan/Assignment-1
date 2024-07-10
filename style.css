@@ -149,7 +149,7 @@
   margin-top: 15px;
 }
 /* ftr-footer */
-footer {
+.footer {
   display: flex;
   justify-content: space-between;
   background: #bbb;
