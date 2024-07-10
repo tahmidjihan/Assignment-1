@@ -125,3 +125,25 @@
 .skill-card P {
   margin-bottom: 15px;
 }
+/* support */
+#support {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
+    url(assets/handshake.jpg);
+  border-radius: 16px;
+  color: #fff;
+  height: 70vh;
+}
+#support > .section-header {
+  padding-top: 20vh;
+}
+.newsletter input {
+  padding: 15px;
+  border-radius: 7px;
+}
+.newsletter input:focus {
+  outline: none;
+}
+
+.newsletter {
+  margin-top: 15px;
+}
